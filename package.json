@@ -51,6 +51,7 @@
     "clean-webpack-plugin": "^3.0.0",
     "commander": "*",
     "core-js": "^3.18.3",
+    "cross-env": "^10.1.0",
     "css-loader": "^5.0.1",
     "css-minimizer-webpack-plugin": "^1.1.5",
     "es-module-loader": "*",
